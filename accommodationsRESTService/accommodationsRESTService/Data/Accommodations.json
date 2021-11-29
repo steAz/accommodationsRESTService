@@ -1,0 +1,140 @@
+{
+    "Accommodations":
+    [
+        {
+            "Id": 1234,
+            "Name": "Hotel Eugenia",
+            "Prices": 
+            [
+                {
+                    "Date": 20220215,
+                    "Price": 2900
+                },
+                {
+                    "Date": 20220405,
+                    "Price": 2500
+                },
+                {
+                    "Date": 20220320,
+                    "Price": 2100
+                },
+                {
+                    "Date": 20220220,
+                    "Price": 2020
+                },                {
+                    "Date": 20220601,
+                    "Price": 2450
+                },                {
+                    "Date": 20220716,
+                    "Price": 2700
+                }
+            ]
+        },
+        {
+            "Id": 1122,
+            "Name": "Hotel Victoria",
+            "Prices": 
+            [
+                {
+                    "Date": 20220215,
+                    "Price": 2800
+                },
+                {
+                    "Date": 20220512,
+                    "Price": 3500
+                },
+                {
+                    "Date": 20220419,
+                    "Price": 2200
+                }
+            ]
+        },
+        {
+            "Id": 1133,
+            "Name": "Pension Posejdon",
+            "Prices": 
+            [
+                {
+                    "Date": 20220214,
+                    "Price": 2200
+                },
+                {
+                    "Date": 20220205,
+                    "Price": 2500
+                },
+                {
+                    "Date": 20220320,
+                    "Price": 2000
+                },
+                {
+                    "Date": 20220220,
+                    "Price": 2010
+                },                {
+                    "Date": 20220601,
+                    "Price": 2460
+                },                {
+                    "Date": 20220715,
+                    "Price": 2300
+                }
+            ]
+        },
+        {
+            "Id": 1144,
+            "Name": "Hotel Pica Pica",
+            "Prices": 
+            [
+                {
+                    "Date": 20220215,
+                    "Price": 3500
+                },
+                {
+                    "Date": 20220405,
+                    "Price": 3500
+                },
+                {
+                    "Date": 20220320,
+                    "Price": 3500
+                },
+                {
+                    "Date": 20220220,
+                    "Price": 3500
+                },                {
+                    "Date": 20220604,
+                    "Price": 4450
+                },                {
+                    "Date": 20220714,
+                    "Price": 4700
+                }
+            ]
+        },
+        {
+            "Id": 1155,
+            "Name": "Hotel Euzubio",
+            "Prices": 
+            [
+                {
+                    "Date": 20220215,
+                    "Price": 2400
+                },
+                {
+                    "Date": 20220405,
+                    "Price": 2000
+                },
+                {
+                    "Date": 20220320,
+                    "Price": 2000
+                },
+                {
+                    "Date": 20220220,
+                    "Price": 3020
+                },                {
+                    "Date": 20220601,
+                    "Price": 5500
+                },                {
+                    "Date": 20220716,
+                    "Price": 5700
+                }
+            ]
+        }
+    ]
+}
